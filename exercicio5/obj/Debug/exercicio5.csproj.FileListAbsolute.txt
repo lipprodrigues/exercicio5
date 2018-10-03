@@ -1,0 +1,5 @@
+C:\Users\etec\Desktop\1209\exercicio5\exercicio5\bin\Debug\exercicio5.exe.config
+C:\Users\etec\Desktop\1209\exercicio5\exercicio5\bin\Debug\exercicio5.exe
+C:\Users\etec\Desktop\1209\exercicio5\exercicio5\bin\Debug\exercicio5.pdb
+C:\Users\etec\Desktop\1209\exercicio5\exercicio5\obj\Debug\exercicio5.exe
+C:\Users\etec\Desktop\1209\exercicio5\exercicio5\obj\Debug\exercicio5.pdb
